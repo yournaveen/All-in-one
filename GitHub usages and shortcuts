@@ -13,11 +13,11 @@ Uploading files and folder in github repostitury :
   Type 'git init'
   Type 'git add .'- here . is to add the whole folder and if you want to add a certain file use 'git add calc.py'
   Type 'git commit -m " ADD any name to it for your reference" '
+  Type 'git remote add origin paste_the_link of your url'
+  Type 'git push -u origin main'
+  Then check for your file in repository it will be uploaded
   
   
-
-
-
 To delete a repository click and go to repository and click settings under settings page scroll down you find danger zone in that click delete repository.
 To Change a repository name click and go to repository and click settings on top you find name changing option.
 
