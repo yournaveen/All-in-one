@@ -4,7 +4,18 @@ Template to look good for profile __ You tube link : https://youtu.be/G-EGDH50hG
 How it works:
 Fork is a copy of repository that we manage to save the repository in our own github repository
 Clone creates a copy of the repository in your local system or computer
-Try to upload a file in github repository there is another way to upload a file in github repository is to drag the file and paste in the drop folder path
+
+Uploading files and folder in github repostitury :
+1.Open your reopository click 'upload files' drag your file from your computer and paste it 
+2.cmd prompt commands
+  Go to the folder which you need to upload in your github repository in cmd prompt
+  Before that check whether you have installed git in your pc by typing git and click Enter
+  Type 'git init'
+  Type 'git add .'- here . is to add the whole folder and if you want to add a certain file use 'git add calc.py'
+  Type 'git commit -m " ADD any name to it for your reference" '
+  
+  
+
 
 
 To delete a repository click and go to repository and click settings under settings page scroll down you find danger zone in that click delete repository.
