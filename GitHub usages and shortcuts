@@ -17,6 +17,9 @@ Uploading files and folder in github repostitury :
   Type 'git push -u origin main'
   Then check for your file in repository it will be uploaded
   
+Delete a file in a repository without any commands:
+1.Go to certain repository click the file you need to edit click edit option and at your right corner you find a delete box click it and delete it.
+  
   
 To delete a repository click and go to repository and click settings under settings page scroll down you find danger zone in that click delete repository.
 To Change a repository name click and go to repository and click settings on top you find name changing option.
