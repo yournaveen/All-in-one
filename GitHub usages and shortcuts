@@ -5,17 +5,17 @@ How it works:
 Fork is a copy of repository that we manage to save the repository in our own github repository
 Clone creates a copy of the repository in your local system or computer
 
-How to clone a repository in your local repository or Edit a file in github using Clone method:
+How to clone a repository in your local repository using Clone method:
  Go to related repository in your github 
  then go to folder you can see a code option on top right 
- click the code option and any link 
+ click the code option and copy the link 
  Now go to your folder were you need to store the entire folder of the github repository in cmd prompt
  Use git clone and paste_the_url and click Enter in cmd prompt
  Now you can see the folder in your local system it will be available.
  
-Uploading files and folder in github repostitury :
-1.Open your reopository click 'upload files' drag your file from your computer and paste it 
-2.cmd prompt commands
+Uploading files and folder in github repostitory :
+1.Method 1 :Open your reopository click 'upload files' drag your file from your computer and paste it 
+2.Method 2 :cmd prompt commands
   Go to the folder which you need to upload in your github repository in cmd prompt
   Before that check whether you have installed git in your pc by typing git and click Enter
   Type 'git init'
