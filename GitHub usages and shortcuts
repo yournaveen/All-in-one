@@ -25,6 +25,9 @@ Uploading files and folder in github repostitory :
   Type 'git push -u origin main'
   Then check for your file in repository it will be uploaded
   
+⭐How to generate a new SSH Key:
+You_tube link: https://youtu.be/on-MniMwdxM
+  
 Delete a file in a repository without any commands:
 1.Go to certain repository click the file you need to edit click edit option and at your right corner you find a delete box click it and delete it.
   
