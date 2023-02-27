@@ -25,6 +25,11 @@ Uploading files and folder in github repostitory :
   Type 'git push -u origin main'
   Then check for your file in repository it will be uploaded
   
+🚫Error while pushing files in cmd or git bash:
+1.error: src refspec main does not match any
+  error: failed to push some refs to 'github.com:yournaveen/Documents-for-Python.git'
+  Ans:
+  
 ⭐How to generate a new SSH Key:
 You_tube link: https://youtu.be/on-MniMwdxM
   
